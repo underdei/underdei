@@ -1,12 +1,12 @@
-## Hola, soy felipe chiarello 👋
+# 👋 ¡Hola! Soy Felipe Chiarello
 
+### 🧑‍💻 Quien soy
 
-### Quien soy
 Soy un estudiante de Sistemas Microinformáticos y Redes (SMX). Me interesa el mundo de la informática, especialmente la programación, los sistemas y las redes.
 
 Me gusta aprender haciendo proyectos y prácticas, ya que considero que experimentar y resolver problemas es una de las mejores formas de aprender.
 
-### Que estoy estudiando y que quiero aprender
+## 🎓 ¿Qué estoy estudiando?
 
 Actualmente estoy estudiando un CFGM de Sistemas Microinformáticos y Redes (SMX).
 
@@ -20,11 +20,19 @@ Durante mis estudios estoy aprendiendo sobre:
 - Seguridad informática.
 - Programación y scripting.
 
-### Competencias y tecnologias relacionadas con SMX
+### 🧰 Competencias y tecnologias relacionadas con SMX
 
-En el futuro me gustaría continuar mis estudios en un Grado Superior relacionado con la programación, como DAW o DAM.
+| Área | Tecnologías y herramientas |
+|---|---|
+| 🖥️ Sistemas operativos | Windows, Linux, Ubuntu |
+| 🌐 Redes | TCP/IP, DHCP, DNS, Cisco Packet Tracer |
+| ⚙️ Virtualización | VirtualBox |
+| 💻 Desarrollo | HTML, CSS, Python y JavaScript (en aprendizaje) |
+| 🔧 Herramientas | Visual Studio Code, Git y GitHub |
 
-También quiero seguir aprendiendo cosas como:
+## 🚀 ¿Qué quiero aprender?
+
+Quiero seguir ampliando mis conocimientos de programación y, en el futuro, continuar mis estudios con un **Grado Superior de Desarrollo de Aplicaciones Web (DAW) o Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 - Python
 - Java
@@ -32,11 +40,15 @@ También quiero seguir aprendiendo cosas como:
 - HTML y CSS
 - Git y github
 
-### Mis proyectos o practicaas
+Mi objetivo es aprender a crear videojuegos, desarrollar aplicaciones completas y mejorar mis habilidades resolviendo problemas.
+
+## 📂 Mis proyectos y prácticas
 
 Aquí iré publicando algunos de mis proyectos personales y trabajos realizados durante mis estudios.
 
-### Mis intereses
+## 🎯 Intereses y objetivos profesionales
+
+### 🔎 Mis intereses
 
 - Programación y desarrollo de software.
 - Desarrollo de videojuegos.
@@ -45,7 +57,7 @@ Aquí iré publicando algunos de mis proyectos personales y trabajos realizados 
 - Linux y automatización de tareas.
 - Resolución de problemas tecnológicos.
 
-### Mi camino profesional
+### 🚀 Mi camino profesional
 
 SMX → Grado Superior (DAW/DAM) → Desarrollador de software
 
@@ -53,9 +65,7 @@ Quiero continuar formándome, aprender nuevos lenguajes de programación y adqui
 
 A largo plazo, me gustaría trabajar como desarrollador de software, participando en proyectos web o multiplataforma y colaborando con otros profesionales.
 
-### Informacion de contacto o enlaces relevantes
-
-chiarellofelipe100@gmail.com 
+## 📫 Contacto y enlaces
 
 <p align="center">
   <a href="https://github.com/underdei">
