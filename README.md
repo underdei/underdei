@@ -1,5 +1,16 @@
 # 👋 ¡Hola! Soy Felipe Chiarello
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=180&section=header&text=Felipe%20Chiarello&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20SMX%20%7C%20Futuro%20Programador&descSize=15&descAlignY=55" width="100%" alt="Banner de Felipe Chiarello"/></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-SMX-0077B6?style=for-the-badge" alt="Estudiante de SMX"/>
+  <img src="https://img.shields.io/badge/Interés-Programación-7B2FF7?style=for-the-badge" alt="Interés en programación"/>
+  <img src="https://img.shields.io/badge/Aprendiendo-Linux-FCC624?style=for-the-badge" alt="Aprendiendo Linux"/>
+</p>
+
+---
+
 ### 🧑‍💻 Quien soy
 
 Soy **Felipe Chiarello** un estudiante de **Sistemas Microinformáticos y Redes (SMX)**. Me interesa el mundo de la informática, especialmente la programación, los sistemas y las redes.
@@ -89,3 +100,12 @@ A largo plazo, me gustaría trabajar como desarrollador de software, participand
     <img src="https://img.shields.io/badge/GitHub-underdei-181717?style=for-the-badge&logo=github" alt="Mi perfil de GitHub"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>«Aprender, experimentar y mejorar un poco cada día.»</i>
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=100&section=footer" width="100%" alt="Banner del final"/>
